@@ -1,0 +1,16 @@
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/janduy/Documents/DIO/Dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
